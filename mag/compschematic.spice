@@ -1,0 +1,11 @@
+* SPICE3 file created from compschematic.ext - technology: sky130A
+
+X0 li_310_142# li_132_150# VSS VSS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0.29 ps=2.58 w=1 l=0.15
+X1 li_132_150# a_n58_534# VDD VDD sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0.29 ps=2.58 w=1 l=0.15
+X2 a_n58_534# a_n58_534# VDD VDD sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0.580025 ps=5.165 w=1 l=0.15
+X3 a_n58_534# XM3/a_n15_n126# VSS VSS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0.580025 ps=5.165 w=1 l=0.15
+X4 a_234_534# XM4/a_n15_n126# li_310_142# VSS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0.29 ps=2.58 w=1 l=0.15
+X5 li_426_432# XM5/a_n15_n126# li_310_142# VSS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0.580025 ps=5.165 w=1 l=0.15
+X6 a_234_534# a_234_534# VDD VDD sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X7 li_132_150# li_132_150# VSS VSS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X8 li_426_432# a_234_534# VDD VDD sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15

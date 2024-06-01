@@ -1,0 +1,42 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1717180972
+<< error_s >>
+rect 190 1272 248 1472
+rect 278 1272 336 1472
+rect 366 1272 424 1472
+rect 154 1064 460 1144
+rect 0 354 612 1064
+rect 36 26 94 226
+rect 124 26 182 226
+rect 212 26 270 226
+rect 342 26 400 226
+rect 430 26 488 226
+rect 518 26 576 226
+<< nwell >>
+rect 0 676 612 1064
+rect 136 660 256 676
+rect 378 664 476 676
+rect 480 674 612 676
+rect 398 660 476 664
+<< locali >>
+rect 202 698 236 883
+rect 136 664 236 698
+rect 378 698 412 891
+rect 378 664 476 698
+rect 136 620 170 664
+rect 442 620 476 664
+use mux1_2  mux1_2_0
+timestamp 1717180972
+transform 1 0 0 0 1 -98
+box 0 98 306 776
+use mux1_2  mux1_2_1
+timestamp 1717180972
+transform 1 0 306 0 1 -98
+box 0 98 306 776
+use mux1_2  mux1_2_2
+timestamp 1717180972
+transform 1 0 154 0 -1 1596
+box 0 98 306 776
+<< end >>

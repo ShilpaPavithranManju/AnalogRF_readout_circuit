@@ -1,0 +1,14 @@
+* SPICE3 file created from new_latest.ext - technology: sky130A
+
+X0 a_18_4968# a_n1773_1570# li_n1841_1689# XM7/VSUBS sky130_fd_pr__nfet_01v8 ad=0.725 pd=5.58 as=0.725 ps=5.58 w=2.5 l=0.5
+X1 a_n2291_3844# a_n2291_3844# w_18_4968# w_18_4968# sky130_fd_pr__pfet_01v8 ad=1.74 pd=12.58 as=1.74 ps=12.58 w=6 l=2
+X2 a_n2291_3844# a_n2227_1625# li_n1841_1689# XM7/VSUBS sky130_fd_pr__nfet_01v8 ad=0.725 pd=5.58 as=1.885025 ps=14.165 w=2.5 l=0.5
+X3 vout a_18_4968# w_18_4968# w_18_4968# sky130_fd_pr__pfet_01v8 ad=5.8 pd=40.58 as=5.8 ps=40.58 w=20 l=0.5
+X4 li_n1841_1689# w_18_4968# XM7/VSUBS XM7/VSUBS sky130_fd_pr__nfet_01v8 ad=1.16 pd=8.58 as=1.16 ps=8.58 w=4 l=2
+X5 vout w_18_4968# XM7/VSUBS XM7/VSUBS sky130_fd_pr__nfet_01v8 ad=2.03 pd=14.58 as=2.03 ps=14.58 w=7 l=2
+X6 a_18_4968# a_n2291_3844# w_18_4968# w_18_4968# sky130_fd_pr__pfet_01v8 ad=1.74 pd=12.58 as=7.540025 ps=53.165 w=6 l=2
+C0 w_18_4968# vout 2.480273f
+C1 a_n2291_3844# XM7/VSUBS 2.032914f **FLOATING
+C2 vout XM7/VSUBS 4.163797f **FLOATING
+C3 w_18_4968# XM7/VSUBS 23.350359f **FLOATING
+C4 a_18_4968# XM7/VSUBS 2.10333f **FLOATING

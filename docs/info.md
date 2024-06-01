@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Based upon different modes differnt circuits are selected including RF based transmission.
 
 ## How to test
 
-Explain how to use your project
+Select a mode with proper input so as to select the rquired Rf transmission peripheral circuit.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+VNA, Multimeter and CRO.

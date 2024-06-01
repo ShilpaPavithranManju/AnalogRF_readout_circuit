@@ -1,0 +1,85 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1714831447
+<< checkpaint >>
+rect -435 6068 3477 6121
+rect -435 6015 4816 6068
+rect -435 5856 6155 6015
+rect -435 5803 8372 5856
+rect -435 -819 9711 5803
+rect 904 -872 9711 -819
+rect 2243 -925 9711 -872
+rect 4460 -1084 9711 -925
+rect 5799 -1137 9711 -1084
+<< error_s >>
+rect 2146 4791 2181 4825
+rect 2147 4772 2181 4791
+rect 369 2562 403 2616
+rect 861 2598 895 2616
+rect 388 583 403 2562
+rect 422 2528 457 2562
+rect 422 583 456 2528
+rect 422 549 437 583
+rect 825 530 895 2598
+rect 825 494 878 530
+rect 2166 477 2181 4772
+rect 2200 4738 2235 4772
+rect 3485 4738 3520 4772
+rect 2200 477 2234 4738
+rect 3486 4719 3520 4738
+rect 2200 443 2215 477
+rect 3505 424 3520 4719
+rect 3539 4685 3574 4719
+rect 3539 424 3573 4685
+rect 4825 2520 4859 2538
+rect 4825 2484 4895 2520
+rect 4842 2450 4913 2484
+rect 3539 390 3554 424
+rect 4842 371 4912 2450
+rect 5264 2297 5298 2351
+rect 5756 2333 5790 2351
+rect 4842 335 4895 371
+rect 5283 318 5298 2297
+rect 5317 2263 5352 2297
+rect 5317 318 5351 2263
+rect 5317 284 5332 318
+rect 5720 265 5790 2333
+rect 5720 229 5773 265
+use sky130_fd_pr__pfet_01v8_XP8NY6  XM1
+timestamp 0
+transform 1 0 193 0 1 1666
+box -246 -1119 246 1119
+use sky130_fd_pr__pfet_01v8_3EZD5A  XM2
+timestamp 0
+transform 1 0 632 0 1 1546
+box -246 -1052 246 1052
+use sky130_fd_pr__nfet_01v8_L9PRWH  XM3
+timestamp 0
+transform 1 0 1521 0 1 2651
+box -696 -2210 696 2210
+use sky130_fd_pr__nfet_01v8_L9PRWH  XM4
+timestamp 0
+transform 1 0 2860 0 1 2598
+box -696 -2210 696 2210
+use sky130_fd_pr__nfet_01v8_L9PRWH  XM5
+timestamp 0
+transform 1 0 4199 0 1 2545
+box -696 -2210 696 2210
+use sky130_fd_pr__pfet_01v8_XP8NY6  XM6
+timestamp 0
+transform 1 0 5088 0 1 1401
+box -246 -1119 246 1119
+use sky130_fd_pr__pfet_01v8_3EZD5A  XM7
+timestamp 0
+transform 1 0 5527 0 1 1281
+box -246 -1052 246 1052
+use sky130_fd_pr__nfet_01v8_L9PRWH  XM8
+timestamp 0
+transform 1 0 6416 0 1 2386
+box -696 -2210 696 2210
+use sky130_fd_pr__nfet_01v8_L9PRWH  XM9
+timestamp 0
+transform 1 0 7755 0 1 2333
+box -696 -2210 696 2210
+<< end >>

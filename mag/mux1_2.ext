@@ -1,0 +1,26 @@
+timestamp 1717263723
+version 8.3
+tech sky130A
+style ngspice()
+scale 1000 1 500000
+resistclasses 4400000 2200000 950000 3050000 120000 197000 114000 191000 120000 197000 114000 191000 48200 319800 2000000 48200 48200 12800 125 125 47 47 29 5
+use mux_unitcell mux_unitcell_1 -1 0 -422 0 1 -90
+use mux_unitcell mux_unitcell_0 1 0 728 0 1 -90
+node "a_94_394#" 373 163.274 94 394 p 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6960 524 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+substrate "VSUBS" 0 0 -1073741817 -1073741817 space 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cap "mux_unitcell_0/w_n728_542#" "mux_unitcell_0/XM7/a_15_n100#" -13.4656
+cap "mux_unitcell_0/XM7/a_n15_n126#" "mux_unitcell_0/XM7/a_15_n100#" 21.1074
+cap "mux_unitcell_0/w_n728_542#" "mux_unitcell_0/XM7/a_n15_n126#" 21.9643
+cap "mux_unitcell_0/w_n728_542#" "mux_unitcell_0/XM5/a_n73_n100#" -0.511924
+cap "mux_unitcell_0/XM7/a_n15_n126#" "mux_unitcell_0/XM5/a_n73_n100#" 7.30101
+cap "mux_unitcell_0/w_n728_542#" "mux_unitcell_0/XM5/a_n15_n126#" -0.774316
+cap "mux_unitcell_0/XM7/a_n15_n126#" "mux_unitcell_0/XM5/a_n15_n126#" 21.7757
+cap "mux_unitcell_0/XM7/a_n15_n126#" "mux_unitcell_1/XM5/a_n73_n100#" 6.18777
+cap "mux_unitcell_0/w_n728_542#" "mux_unitcell_1/XM7/a_n15_n126#" -2.12628
+cap "mux_unitcell_0/XM7/a_n15_n126#" "mux_unitcell_1/XM7/a_n15_n126#" 18.3666
+merge "mux_unitcell_0/XM7/a_15_n100#" "mux_unitcell_1/XM7/a_15_n100#" -434 0 0 0 0 0 0 0 0 -11600 -516 -11600 -516 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -20332 -1264 -18400 -984 0 0 0 0 0 0 0 0 0 0
+merge "mux_unitcell_0/VSUBS" "mux_unitcell_1/VSUBS" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+merge "mux_unitcell_1/VSUBS" "VSUBS"
+merge "mux_unitcell_0/XM7/a_n15_n126#" "mux_unitcell_1/XM5/a_n15_n126#" -82.3674 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -180 -132 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+merge "mux_unitcell_1/XM5/a_n15_n126#" "a_94_394#"
+merge "mux_unitcell_0/w_n728_542#" "mux_unitcell_1/w_n728_542#" -126.36 0 0 0 0 -42120 -908 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

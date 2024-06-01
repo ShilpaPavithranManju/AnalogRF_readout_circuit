@@ -1,0 +1,25 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1717263723
+<< nwell >>
+rect -226 1206 -46 1214
+rect -226 1186 -34 1206
+rect -226 1052 -32 1186
+rect -226 1042 -34 1052
+<< poly >>
+rect 46 896 76 978
+<< locali >>
+rect -66 1116 16 1152
+rect 88 874 122 1000
+rect -78 802 4 812
+rect -78 778 20 802
+use sky130_fd_pr__nfet_01v8_WYB6A9  XM13
+timestamp 1717180972
+transform 1 0 61 0 1 770
+box -73 -126 73 126
+use sky130_fd_pr__pfet_01v8_5U3WHE  XM14
+timestamp 1717180972
+transform 1 0 61 0 1 1104
+box -109 -162 109 162
+<< end >>
